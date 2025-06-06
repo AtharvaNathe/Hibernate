@@ -32,9 +32,3 @@ This is a simple Java-based application for managing bank accounts. It includes 
 - Any Java IDE (e.g., IntelliJ, Eclipse) or terminal
 
 ---
-
-## ▶️ How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/BankAccountManager.git
